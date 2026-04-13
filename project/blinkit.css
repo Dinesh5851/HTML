@@ -1,0 +1,357 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#pc{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    left: 50px;
+}
+#scard{
+    display: flex;
+    
+}
+#scard2{
+    display: flex;
+}
+#milk{
+    display: flex;
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+    left: 30px;
+    gap: 150px;
+    
+ } 
+button{
+    position: relative;
+    top:20px;
+    left: 60px;
+    height: 50px;
+    width: 70px;
+    border-radius: 10px;
+    color: darkgreen;
+    background-color: rgb(201, 251, 201);
+}
+p{
+    position: relative;
+    right: 80px;
+    font-size: 20px;
+    bottom: 30px;
+}
+h2{
+    position: relative;
+    left: 30px;
+    bottom: 50px;
+}
+.a1{
+    
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+    
+    
+}
+.a2{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+.a3{
+     height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+.a4{
+     height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+.a5{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+.a6{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+
+}
+#Snacks{
+    display: flex;
+    gap: 150px;
+    position: relative;
+    left: 30px;
+}
+#s1{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#s2{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#s3{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#s4{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#s5{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#s6{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#s7{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#cool{
+    display: flex;
+    gap: 150px;
+    position: relative;
+    left: 30px;
+}
+#c1{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#c2{
+     height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#c3{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#c4{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#c5{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#c6{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#c7{
+    height: 400px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 1px 1px 2px;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+}
+#li{
+    display: flex;
+    gap: 100px;
+    position: relative;
+    top: 100px;
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    left: 100px;
+    cursor: pointer;
+    color: #6b6b6b;
+}
+#li2{
+    display: flex;
+    position: relative;
+    left: 900px;
+    gap: 100px;
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    bottom: 170px;
+    color: #6b6b6b;
+    
+
+    
+}
+#h2{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+#h21{
+    position: relative;
+    bottom: 210px;
+    left: 900px;
+}
+ #foot{
+    height: 200px;
+    width: 2700px;
+    /* border: 2px solid black; */
+    position: relative;
+    /* left: 10px; */
+    background-color: beige;
+    display: flex;
+    bottom: 100px;
+    border-radius: 20px;
+    /* right: 50px; */
+}
+.foot{
+    display: flex;
+    position: relative;
+    align-items: center;
+    left: 600px;
+    gap: 50px;
+
+}
+#p1{
+    display: flex;
+    
+}
+#nav1{
+    display: flex;
+    position: relative;
+    left: 30px;
+    gap: 50px;
+
+}
+#nav1>.delivery{
+    position: relative;
+    /* top: 100px; */
+    padding: 100px;
+    top: 20px;
+    left: 10px;
+    font-size: 30px;
+}
+#nav1 .search-box{
+    position: relative;
+    padding: 100px;
+
+}
+.search-box input {
+    border: none;
+    outline: none;
+    width: 100px;
+    background: transparent;
+    font-size: 30px;
+}
+.search-box {
+    /* flex: 1; */
+    display: flex;
+    align-items: center;
+    background: #f5f5f5;
+    border-radius: 12px;
+    padding: 12px 15px;
+    width: 700px;
+    height: 0px;
+    top: 50px;
+    
+}
+.search-box i {
+    color: #777;
+    font-size: 16px;
+    margin-right: 10px;
+}
+h2{
+    
+    position: relative;
+    left: 1900px;
+    bottom: 170px;
+    color: black;
+}
