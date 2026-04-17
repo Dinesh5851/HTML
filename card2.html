@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+            background-color: rgb(198, 227, 164);
+        }
+        .cls{
+          background-color: aliceblue;
+        }
+        .cls1{
+            height: 800px;
+            width: 600px;
+            border: 2px solid black;
+            /* padding: 5px; */
+            display: grid;
+           justify-content: center;
+           position: relative;
+           left: 700px;
+           top: 300px;
+           border-radius: 20px ;
+           box-shadow: 10px 10px 3px 0px;
+           /* background-color: aliceblue; */
+        }
+        h1{
+            /* padding: 20px; */
+        }
+        .c1{
+            height: 100px;
+            width: 500px;
+            /* background-color: aliceblue; */
+        }
+        .c2{
+            width: 500px;
+            /* background-color: aliceblue; */
+        }
+        .button{
+            height: 50px;
+            width: 500px;
+            color: aliceblue;
+            background-color: rgb(13, 70, 4);
+            border-radius: 10px;
+          
+            
+        }
+        .c3{
+            width: 200px;
+            /* background-color: aliceblue; */
+             border-radius: 10px;
+
+        }
+        .c4{
+            width: 200px;
+            /* background-color: aliceblue; */
+        }
+        
+        
+    </style>
+</head>
+<body>
+     <div clsss="cls">
+        <div class="cls1">
+            <h1>Contact Us</h1>
+            <span class="c6">
+                <label for="name" > First Name*</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <label for="name">Last Name*</label>
+                <br>
+                <input type="name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <input type="name">
+            </span>
+            <label for="email">Email Address *</label>
+                <input type="email" class="c2">
+                <span><br>
+                    <label for="">Query Type *</label>
+                    <br>
+                    <br>
+                     <button class="c3"><input type="radio" name="a"> Genral Query</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                      <button class="c4"><input type="radio" name="a">Support Request</button>  
+                </span>
+                <label for="message" >Message</label>
+                <input type="message" class="c1">
+                <span><p><input type="checkbox">   I consent to being contacted by the team</p></span>
+                <button class="button">Submit</button>
+        </div>
+     </div>
+</body>
+</html>
